@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Seedon D'Souza<br>A passionate hacker<br><br>🔭 I’m currently working on hw101.me<br>💬 Ask me about Hardware, Electronics, Security, Exfiltration & Covert Channels<br>📝 I regularly write articles on https://hw101.me
+Hi 👋, I'm Seedon D'Souza<br>A passionate hacker<br><br>🔭 I’m currently working on seedon198/secops<br>💬 Ask me about Hardware, Electronics, Security, Exfiltration & Covert Channels<br>📝
 
 
 ## 🌐 Socials:
