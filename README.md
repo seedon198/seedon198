@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seedon198&repo=Fyrmgeist&theme=holi&hide_border=true" alt="Pinned Repo - Fyrmgeist" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seedon198&repo=ThingNix&theme=holi&hide_border=true" alt="Pinned Repo - ThingNix" />
 </p>
 
 <p align="center">
