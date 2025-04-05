@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=seedon198&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seedon198&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seedon198&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=seedon198&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![seedon198's Stats](https://github-readme-stats.vercel.app/api?username=seedon198&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![seedon198's Streak](https://github-readme-streak-stats.herokuapp.com/?user=seedon198&theme=nightowl&hide_border=false)
+![seedon198's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seedon198&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
