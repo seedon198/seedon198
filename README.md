@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedon198&layout=compact&theme=holi&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedon198&layout=compact&theme=holi&hide_border=false&langs_count=10&card_width=445" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seedon198&theme=holi&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seedon198&theme=holi&hide_border=false" alt="GitHub Streak" />
 </p>
