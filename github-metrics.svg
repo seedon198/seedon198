@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.54m added, 7.82k removed
+                                    3.20m added, 7.90k removed
                                 </div>
                             </section>
                             <section>
@@ -885,75 +885,75 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,79.968,-2.27L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,79.967,-2.285L0,0Z">
                                         <title>Python
-17.73</title>
+17.78</title>
                                     </path>
-                                    <path fill="#663399" d="M79.99,-1.27A80,80,0,0,1,42.257,67.929L0,0Z">
+                                    <path fill="#663399" d="M79.99,-1.286A80,80,0,0,1,42.241,67.939L0,0Z">
                                         <title>CSS
-11.89</title>
+11.93</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M41.404,68.452A80,80,0,0,1,2.762,79.952L0,0Z">
+                                    <path fill="#f1e05a" d="M41.389,68.462A80,80,0,0,1,2.725,79.954L0,0Z">
                                         <title>JavaScript
-5.88</title>
+5.90</title>
                                     </path>
-                                    <path fill="#e34c26" d="M1.762,79.981A80,80,0,0,1,-61.611,51.031L0,0Z">
+                                    <path fill="#e34c26" d="M1.726,79.981A80,80,0,0,1,-61.675,50.952L0,0Z">
                                         <title>HTML
-10.40</title>
+10.44</title>
                                     </path>
-                                    <path fill="#384d54" d="M-62.244,50.256A80,80,0,0,1,-62.418,50.04L0,0Z">
+                                    <path fill="#384d54" d="M-62.307,50.178A80,80,0,0,1,-62.48,49.962L0,0Z">
                                         <title>Dockerfile
 0.04</title>
                                     </path>
-                                    <path fill="#e6f598" d="M-63.038,49.256A80,80,0,0,1,-79.883,-4.328L0,0Z">
+                                    <path fill="#e6f598" d="M-63.1,49.177A80,80,0,0,1,-79.879,-4.398L0,0Z">
                                         <title>RenderScript
-8.28</title>
+8.30</title>
                                     </path>
-                                    <path fill="#89e051" d="M-79.823,-5.326A80,80,0,0,1,-77.725,-18.942L0,0Z">
+                                    <path fill="#89e051" d="M-79.818,-5.396A80,80,0,0,1,-77.718,-18.97L0,0Z">
                                         <title>Shell
 1.99</title>
                                     </path>
-                                    <path fill="#7e7eff" d="M-77.482,-19.912A80,80,0,0,1,-8.209,-79.578L0,0Z">
+                                    <path fill="#7e7eff" d="M-77.475,-19.94A80,80,0,0,1,-8.189,-79.58L0,0Z">
                                         <title>Nix
-14.04</title>
+14.08</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-7.214,-79.674A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3178c6" d="M-7.194,-79.676A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>TypeScript
 0.97</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(27.96967801463417,-28.59540368236983)">
+                                    <text transform="translate(27.966863156959576,-28.598156674161658)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">17.73</tspan>
+                                        <tspan x="0" y="1.1em">17.78</tspan>
                                     </text>
-                                    <text transform="translate(35.11830718325246,19.149530035557497)">
+                                    <text transform="translate(35.11799011836915,19.150111489130467)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
-                                        <tspan x="0" y="1.1em">11.89</tspan>
+                                        <tspan x="0" y="1.1em">11.93</tspan>
                                     </text>
-                                    <text transform="translate(11.409718081117777,38.3382098344382)">
+                                    <text transform="translate(11.396491899385783,38.34214355493488)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">5.88</tspan>
+                                        <tspan x="0" y="1.1em">5.90</tspan>
                                     </text>
-                                    <text transform="translate(-16.620667863702188,36.38342204582325)">
+                                    <text transform="translate(-16.65206605119682,36.36906235011536)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">10.40</tspan>
+                                        <tspan x="0" y="1.1em">10.44</tspan>
                                     </text>
-                                    <text transform="translate(-31.16540953376472,25.074234755874944)">
+                                    <text transform="translate(-31.19700957309451,25.03490750324933)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-38.158943175809426,11.99562652408564)">
+                                    <text transform="translate(-38.171702549221436,11.95496233761369)">
                                         <tspan x="0" y="0em" font-weight="bold">RenderScript</tspan>
-                                        <tspan x="0" y="1.1em">8.28</tspan>
+                                        <tspan x="0" y="1.1em">8.30</tspan>
                                     </text>
-                                    <text transform="translate(-39.53375823617857,-6.089495851331427)">
+                                    <text transform="translate(-39.52996692776893,-6.114058773801153)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-26.104408742538663,-30.307752212964772)">
+                                    <text transform="translate(-26.095088226239092,-30.315777583047378)">
                                         <tspan x="0" y="0em" font-weight="bold">Nix</tspan>
-                                        <tspan x="0" y="1.1em">14.04</tspan>
+                                        <tspan x="0" y="1.1em">14.08</tspan>
                                     </text>
-                                    <text transform="translate(-1.9301164773572956,-39.953405992278476)">
+                                    <text transform="translate(-1.925180570952114,-39.9536441362891)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
                                 </g>
@@ -1045,7 +1045,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2025, 21:46:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2025, 22:42:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
