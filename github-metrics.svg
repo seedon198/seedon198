@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.19m added, 7.73k removed
+                                    3.40m added, 206k removed
                                 </div>
                             </section>
                             <section>
@@ -877,69 +877,69 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,79.999,-0.351L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,79.999,-0.302L0,0Z">
                                         <title>Python
-17.92</title>
+17.98</title>
                                     </path>
-                                    <path fill="#663399" d="M79.997,0.649A80,80,0,0,1,39.486,69.577L0,0Z">
+                                    <path fill="#663399" d="M79.997,0.698A80,80,0,0,1,39.416,69.616L0,0Z">
                                         <title>CSS
-12.02</title>
+12.06</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M38.613,70.065A80,80,0,0,1,-1.147,79.992L0,0Z">
+                                    <path fill="#f1e05a" d="M38.543,70.103A80,80,0,0,1,-1.174,79.991L0,0Z">
                                         <title>JavaScript
-5.95</title>
+5.96</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-2.146,79.971A80,80,0,0,1,-64.733,47.006L0,0Z">
+                                    <path fill="#e34c26" d="M-2.173,79.97A80,80,0,0,1,-64.745,46.991L0,0Z">
                                         <title>HTML
-10.52</title>
+10.55</title>
                                     </path>
-                                    <path fill="#384d54" d="M-65.316,46.194A80,80,0,0,1,-65.476,45.966L0,0Z">
+                                    <path fill="#384d54" d="M-65.327,46.178A80,80,0,0,1,-65.487,45.951L0,0Z">
                                         <title>Dockerfile
 0.04</title>
                                     </path>
-                                    <path fill="#abdda4" d="M-66.046,45.144A80,80,0,0,1,-79.334,-10.302L0,0Z">
+                                    <path fill="#abdda4" d="M-66.056,45.129A80,80,0,0,1,-79.336,-10.287L0,0Z">
                                         <title>RenderScript
-8.37</title>
+8.39</title>
                                     </path>
-                                    <path fill="#89e051" d="M-79.199,-11.293A80,80,0,0,1,-76.023,-24.909L0,0Z">
+                                    <path fill="#89e051" d="M-79.201,-11.278A80,80,0,0,1,-76.041,-24.856L0,0Z">
                                         <title>Shell
 2.01</title>
                                     </path>
-                                    <path fill="#7e7eff" d="M-75.706,-25.857A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#7e7eff" d="M-75.724,-25.805A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Nix
-14.19</title>
+14.24</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(28.310638659733648,-28.257879231782322)">
+                                    <text transform="translate(28.31923752885214,-28.249261685652115)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">17.92</tspan>
+                                        <tspan x="0" y="1.1em">17.98</tspan>
                                     </text>
-                                    <text transform="translate(34.48471934130278,20.268303627871234)">
+                                    <text transform="translate(34.46844944898844,20.29596000642809)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
-                                        <tspan x="0" y="1.1em">12.02</tspan>
+                                        <tspan x="0" y="1.1em">12.06</tspan>
                                     </text>
-                                    <text transform="translate(9.689734886292534,38.80862066388556)">
+                                    <text transform="translate(9.66388315735432,38.81506617694994)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">5.95</tspan>
+                                        <tspan x="0" y="1.1em">5.96</tspan>
                                     </text>
-                                    <text transform="translate(-18.640655694163296,35.39104343321425)">
+                                    <text transform="translate(-18.650863702621912,35.385664938590885)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">10.52</tspan>
+                                        <tspan x="0" y="1.1em">10.55</tspan>
                                     </text>
-                                    <text transform="translate(-32.69808262720478,23.039865288332066)">
+                                    <text transform="translate(-32.70350272096823,23.03217119117569)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-38.898480644602316,9.322456947688144)">
+                                    <text transform="translate(-38.89870453724839,9.321522693415027)">
                                         <tspan x="0" y="0em" font-weight="bold">RenderScript</tspan>
-                                        <tspan x="0" y="1.1em">8.37</tspan>
+                                        <tspan x="0" y="1.1em">8.39</tspan>
                                     </text>
-                                    <text transform="translate(-38.95457253027813,-9.085223111366087)">
+                                    <text transform="translate(-38.95856698143027,-9.068079110451725)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-23.370112743388134,-32.462868486338785)">
+                                    <text transform="translate(-23.38144152315161,-32.454709863122204)">
                                         <tspan x="0" y="0em" font-weight="bold">Nix</tspan>
-                                        <tspan x="0" y="1.1em">14.19</tspan>
+                                        <tspan x="0" y="1.1em">14.24</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -1030,7 +1030,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2025, 20:44:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2025, 21:47:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
