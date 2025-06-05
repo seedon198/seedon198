@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.37m added, 176k removed
+                                    8.37m added, 8.31m removed
                                 </div>
                             </section>
                             <section>
@@ -626,7 +626,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.0 characters per line of code written</li>
+                        <li>Has approximately 32.2 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -889,66 +889,66 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,78.474,-15.549L0,0Z">
+                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,78.48,-15.52L0,0Z">
                                         <title>JavaScript
-5.67</title>
+8.36</title>
                                     </path>
-                                    <path fill="#a86454" d="M78.663,-14.566A80,80,0,0,1,78.991,-12.663L0,0Z">
+                                    <path fill="#a86454" d="M78.668,-14.538A80,80,0,0,1,79.001,-12.601L0,0Z">
                                         <title>Pug
-0.10</title>
+0.15</title>
                                     </path>
-                                    <path fill="#663399" d="M79.144,-11.675A80,80,0,0,1,41.891,68.155L0,0Z">
+                                    <path fill="#663399" d="M79.153,-11.612A80,80,0,0,1,41.833,68.191L0,0Z">
                                         <title>CSS
-4.83</title>
+7.12</title>
                                     </path>
-                                    <path fill="#C1F12E" d="M41.036,68.674A80,80,0,0,1,40.537,68.969L0,0Z">
+                                    <path fill="#C1F12E" d="M40.977,68.709A80,80,0,0,1,40.526,68.976L0,0Z">
                                         <title>Batchfile
-0.03</title>
+0.04</title>
                                     </path>
-                                    <path fill="#89e051" d="M39.672,69.47A80,80,0,0,1,39.168,69.756L0,0Z">
+                                    <path fill="#89e051" d="M39.661,69.477A80,80,0,0,1,39.205,69.735L0,0Z">
                                         <title>Shell
-0.03</title>
+0.04</title>
                                     </path>
-                                    <path fill="#3572A5" d="M38.293,70.24A80,80,0,0,1,-40.067,69.244L0,0Z">
+                                    <path fill="#3572A5" d="M38.33,70.22A80,80,0,0,1,-40.031,69.264L0,0Z">
                                         <title>Python
-4.24</title>
+6.25</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-40.929,68.737A80,80,0,0,1,-1.886,-79.978L0,0Z">
+                                    <path fill="#e34c26" d="M-40.894,68.758A80,80,0,0,1,-1.893,-79.978L0,0Z">
                                         <title>HTML
-10.69</title>
+15.76</title>
                                     </path>
-                                    <path fill="#384d54" d="M-0.886,-79.995A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#384d54" d="M-0.893,-79.995A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Dockerfile
-0.02</title>
+0.03</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(25.483757155968988,-30.831446952999137)">
+                                    <text transform="translate(25.48938643752402,-30.826793200697455)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">5.67</tspan>
+                                        <tspan x="0" y="1.1em">8.36</tspan>
                                     </text>
-                                    <text transform="translate(39.41639728029608,-6.8079090359571905)">
+                                    <text transform="translate(39.42032463840677,-6.785131200103666)">
                                         <tspan x="0" y="0em" font-weight="bold">Pug</tspan>
                                     </text>
-                                    <text transform="translate(36.247610437360024,16.914808233656945)">
+                                    <text transform="translate(36.233648113528034,16.944696644821544)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
-                                        <tspan x="0" y="1.1em">4.83</tspan>
+                                        <tspan x="0" y="1.1em">7.12</tspan>
                                     </text>
-                                    <text transform="translate(20.39349152235375,34.41083410101658)">
+                                    <text transform="translate(20.37582740277746,34.421296571341166)">
                                         <tspan x="0" y="0em" font-weight="bold">Batchfile</tspan>
                                     </text>
-                                    <text transform="translate(19.710184973067516,34.806732227077326)">
+                                    <text transform="translate(19.716384410399833,34.803220911021185)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-0.5085499337376711,39.99676708141416)">
+                                    <text transform="translate(-0.48791911832327317,39.99702407597313)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">4.24</tspan>
+                                        <tspan x="0" y="1.1em">6.25</tspan>
                                     </text>
-                                    <text transform="translate(-38.68891463940708,-10.1571592497446)">
+                                    <text transform="translate(-38.69192391845674,-10.145689897111744)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">10.69</tspan>
+                                        <tspan x="0" y="1.1em">15.76</tspan>
                                     </text>
-                                    <text transform="translate(-0.3465702097145097,-39.99849858544366)">
+                                    <text transform="translate(-0.3482713925127296,-39.998483809229036)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
                                 </g>
@@ -1045,7 +1045,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2025, 01:43:40 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2025, 02:43:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
