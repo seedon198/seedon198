@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.19m added, 7.71k removed
+                                    1.04k added, 2 removed
                                 </div>
                             </section>
                             <section>
@@ -885,28 +885,28 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-15.826,-78.419L0,0Z">
+                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-15.802,-78.424L0,0Z">
                                         <title>JavaScript
-7.24</title>
+13.42</title>
                                     </path>
-                                    <path fill="#a86454" d="M-14.845,-78.611A80,80,0,0,1,-5.525,-79.809L0,0Z">
+                                    <path fill="#a86454" d="M-14.82,-78.615A80,80,0,0,1,-5.481,-79.812L0,0Z">
                                         <title>Pug
-0.14</title>
+0.26</title>
                                     </path>
-                                    <path fill="#663399" d="M-4.527,-79.872A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#663399" d="M-4.483,-79.874A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>CSS
-0.06</title>
+0.11</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(3.8519170211047054,39.81410221595514)">
+                                    <text transform="translate(3.845615338942299,39.81471138492519)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">7.24</tspan>
+                                        <tspan x="0" y="1.1em">13.42</tspan>
                                     </text>
-                                    <text transform="translate(-5.101333069027297,-39.67337143373183)">
+                                    <text transform="translate(-5.084185111152296,-39.67557260778396)">
                                         <tspan x="0" y="0em" font-weight="bold">Pug</tspan>
                                     </text>
-                                    <text transform="translate(-1.257161538442106,-39.980239429826604)">
+                                    <text transform="translate(-1.2462093056562056,-39.980582316500794)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
@@ -1003,7 +1003,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2025, 20:45:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jun 2025, 21:48:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
