@@ -68,12 +68,13 @@
 - Industrial systems reconnaissance techniques
 - ⭐ 4 stars
 
-### [KaliOnWheels](https://github.com/seedon198/kalionwheels)
-**Autonomous Penetration Testing Platform**
-- 🤖 UGV running Kali Linux for remote operations
-- Wireless security assessment capabilities
-- Presented at B|Sides Ahmedabad
-- ⭐ 2 stars
+### [Hardware Lab](https://github.com/seedon198/hardware_lab)
+**Professional Hardware Security Laboratory Setup**
+- 🔧 Comprehensive equipment guide for hardware security professionals
+- 📡 RF/wireless analysis tools and methodologies
+- 🎯 Red teaming and physical security testing equipment
+- 🔍 Complete reverse engineering and debugging platform setup
+- ⚙️ Essential lab tools with phased implementation strategy
 
 ---
 
