@@ -15,8 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seedon.d)
 [![GeoGuessr](https://img.shields.io/badge/GeoGuessr-FF7043?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.geoguessr.com/user/6414604af91bdf5459654a71)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seedon198)
-[![Website](https://img.shields.io/badge/HexGuard-0A84FF?style=for-the-badge&logo=globe&logoColor=white)](https://hexguard.net)
+[![Website](https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=globe&logoColor=white)](https://hexguard.net)
 
 
 
