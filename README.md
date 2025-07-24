@@ -1,17 +1,19 @@
+<div align="right">
+
 ```bash
 > seedon@github:~$ whoami
 ```
 
-<div align="center">
 
-# 🛡️ Seedon D'Souza
-**Security Engineer @ Festo** | **Hardware Security Researcher** | **OSINT Specialist**
+
+# Adlin Seedon D'Souza
+**Security Engineer @ Festo** | **Hardware Security** | **OSINT**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seedon)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SeedonD)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://hexguard.net)
+[![Website](https://img.shields.io/badge/HexguarD-FF7209?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://hexguard.net)
 
-</div>
+
 
 ---
 
@@ -19,22 +21,22 @@
 > seedon@github:~$ cat specializations.txt
 ```
 
-🔬 **Hardware Security & Reverse Engineering**
+**Hardware Security & Reverse Engineering**
 - PCB Analysis & Circuit Board Reversing
 - Firmware Extraction & Analysis  
 - UART/SPI/I2C Protocol Analysis
 - IoT Device Security Assessment
 
-🕵️ **Open Source Intelligence (OSINT)**
+**Open Source Intelligence (OSINT)**
 - Threat Intelligence & Attribution
 - Digital Footprint Analysis
 - Corporate Security Assessment
 - Geospatial Intelligence
 
-⚔️ **Penetration Testing**
+**Penetration Testing**
 - Industrial Control Systems (ICS/SCADA)
 - Embedded Systems Security
-- Web Application Security
+- Reverse Engineering
 - Wireless Protocol Analysis
 
 ---
@@ -43,58 +45,35 @@
 > seedon@github:~$ ls -la ~/projects/featured/
 ```
 
-## 🌟 **Featured Projects**
+## **Featured Projects**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [Farsight](https://github.com/seedon198/Farsight)
+### [Farsight](https://github.com/seedon198/Farsight)
 **Advanced OSINT & Threat Intelligence Framework**
-- 🏆 **BlackHat Arsenal 2025**
-- 🐍 Python-based CLI tool
+- 🏆 BlackHat Arsenal 2025 Featured Tool
+- Python-based CLI framework for automated reconnaissance
+- Advanced analytics and threat intelligence correlation
 - ⭐ 7 stars | 🍴 3 forks
 
-*Automated reconnaissance and threat intelligence gathering with advanced analytics*
-
-</td>
-<td width="50%">
-
-### 🛠️ [Hardware Hacking Starter Pack](https://github.com/seedon198/Hardware-Hacking-Starter-Pack)
-**Ultimate Hardware Security Guide**
-- 📚 Comprehensive documentation
-- 🔧 Practical methodologies
+### [Hardware Hacking Starter Pack](https://github.com/seedon198/Hardware-Hacking-Starter-Pack)
+**Complete Hardware Security Resource**
+- 📚 Comprehensive methodologies and documentation
+- Practical tutorials for IoT security testing
+- Real-world case studies and vulnerability research
 - ⭐ 27 stars | 🍴 4 forks
 
-*Your complete guide to hardware reverse engineering and IoT security*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [Shodan-AIO](https://github.com/seedon198/Shodan-AIO)
+### [Shodan-AIO](https://github.com/seedon198/Shodan-AIO)
 **Comprehensive Shodan OSINT Reference**
-- 🌐 Search query database
-- 📖 Methodology documentation
+- 🌐 Curated search query database
+- Advanced methodology documentation
+- Industrial systems reconnaissance techniques
 - ⭐ 4 stars
 
-*All-in-one reference for Shodan.io reconnaissance*
-
-</td>
-<td width="50%">
-
-### 🚗 [KaliOnWheels](https://github.com/seedon198/kalionwheels)
-**UGV Penetration Testing Platform**
-- 🤖 Autonomous navigation
-- 📡 Remote operations capability
+### [KaliOnWheels](https://github.com/seedon198/kalionwheels)
+**Autonomous Penetration Testing Platform**
+- 🤖 UGV running Kali Linux for remote operations
+- Wireless security assessment capabilities
+- Presented at B|Sides Ahmedabad
 - ⭐ 2 stars
-
-*Unmanned Ground Vehicle running Kali Linux for remote security testing*
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -102,82 +81,92 @@
 > seedon@github:~$ grep -r "achievements" ~/career/
 ```
 
-## 🏆 **Recognition & Achievements**
+## 🏆 **Recognition & Impact**
 
-- 🎯 **BlackHat Arsenal 2025** - Farsight OSINT Framework
-- 🛡️ **Security Engineer** at Festo (Industrial Automation)
-- 🔬 **Hardware Security Research** - Multiple IoT vulnerabilities discovered
-- 📱 **Conference Speaker** - B|Sides Ahmedabad (KaliOnWheels presentation)
+- **BlackHat Arsenal 2025** - Farsight OSINT Framework presenter
+- **Security Engineer** at Festo - Securing industrial automation systems
+- **Conference Speaker** - B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
+- **Community Contributor** - Active in hardware security and OSINT communities
 
 ---
 
 ```bash
-> seedon@github:~$ cat ~/stats.json
+> seedon@github:~$ cat ~/technical_stack.json
 ```
 
-<div align="center">
+## **Technical Arsenal**
 
-## 📊 **GitHub Analytics**
+**Security Specializations**
+- Hardware Reverse Engineering & Firmware Analysis
+- Industrial Control Systems (ICS/SCADA) Security
+- Open Source Intelligence (OSINT) & Threat Hunting
+- Embedded Systems & IoT Security Assessment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seedon198&show_icons=true&theme=radical&hide_border=true)
+**Programming & Scripting**
+- Python (Security automation, data analysis)
+- C/C++ (Embedded systems, exploit development)
+- JavaScript (Web security, automation)
+- Bash/Shell (System administration, tooling)
+- Assembly (Firmware analysis, RE)
+- PowerShell (Windows automation)
+- Lua (Embedded scripting, automation for microcontrollers)
+- MicroPython (Rapid prototyping on embedded platforms)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seedon198&layout=compact&theme=radical&hide_border=true)
+**Hardware Platforms**
+- Arduino, Raspberry Pi, ESP32/ESP8266
+- Arduino, Raspberry Pi, ESP32/ESP8266
+- Xilinx FPGAs, Sipeed boards, NVIDIA Jetson
+- JTAGulator, ChipWhisperer, Saleae Logic Analyzer, Bus Pirate, Flipper Zero
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seedon198&theme=radical&hide_border=true)
+**Security Toolchain**
+- Penetration Testing: Kali Linux, Metasploit, Burp Suite,  
+    ICS/OT: Profinet, Modbus, OPC UA, DNP3 protocol analyzers,  
+    Embedded: Chipsec, Firmadyne, Binwalk, Ghidra, IDA Pro, Radare2, GDB, JTAG/SWD tools
+- Hardware: JTAGulator, Bus Pirate, HackRF
+- OSINT: Custom frameworks, Shodan, social engineering
+- Forensics: Volatility, Autopsy, hex editors
+
+---
+
+```bash
+> seedon@github:~$ tail -f ~/current_focus.log
+```
+
+## **Current Focus Areas**
+
+- Industrial IoT security research and vulnerability disclosure
+- Advanced OSINT automation and threat intelligence correlation  
+- AI-powered security testing methodologies
+- 5G/6G network security implications for industrial systems
+- Zero-trust architecture implementation in OT environments
+
+---
+
+```bash
+> seedon@github:~$ cat ~/.signature
+```
+
+<div align="right">
+
+## **Connect & Collaborate**
+
+**Professional Network**: [LinkedIn](https://www.linkedin.com/in/seedon)  
+**Security Insights**: [Twitter/X](https://x.com/SeedonD)  
+**Research & Blog**: [HexGuard.net](https://hexguard.net)  
+**Contact**: Available via LinkedIn  
+
+---
+
+*"The best way to predict the future of security is to create it"*
+
+⭐ **Found my work useful? Star the repositories and let's secure the digital world together!**
 
 </div>
 
----
-
 ```bash
-> seedon@github:~$ find . -name "*.expertise" -exec cat {} \;
-```
-
-## 🛠️ **Technical Arsenal**
-
-<div align="center">
-
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Hardware & Embedded**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
-
-**Security Tools**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-
-</div>
-
----
-
-```bash
-> seedon@github:~$ cat contact.info
-```
-
-<div align="center">
-
-## 📫 **Get In Touch**
-
-💼 **Professional Inquiries**: [LinkedIn](https://www.linkedin.com/in/seedon)  
-🐦 **Security Updates**: [Twitter/X](https://x.com/SeedonD)  
-🌐 **Research Blog**: [HexGuard.net](https://hexguard.net)  
-📧 **Email**: Available on LinkedIn  
-
----
-
-*"Security is not a product, but a process"* - Bruce Schneier
-
-⭐ **Star my repositories if you find them useful!**
-
-</div>
-
-```bash
+> seedon@github:~$ history | tail -1
+    1337  echo "Thanks for visiting! Stay secure 🛡️"
 > seedon@github:~$ exit
 ```
+
+</div>
