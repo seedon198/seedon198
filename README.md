@@ -60,25 +60,34 @@
 
 ### [Hardware Hacking Starter Pack](https://github.com/seedon198/Hardware-Hacking-Starter-Pack)
 **Complete Hardware Security Resource**
-- 📚 Comprehensive methodologies and documentation
+- Comprehensive methodologies and documentation
 - Practical tutorials for IoT security testing
 - Real-world case studies and vulnerability research
 - ⭐ 27 stars | 🍴 4 forks
 
-### [Shodan-AIO](https://github.com/seedon198/Shodan-AIO)
-**Comprehensive Shodan OSINT Reference**
-- 🌐 Curated search query database
-- Advanced methodology documentation
-- Industrial systems reconnaissance techniques
-- ⭐ 4 stars
+### [Cyber Resilience Act (CRA) - Compliance Hub](https://github.com/seedon198/Cyber-Resilience-Act)
+**EU Cyber Resilience Act Compliance Resource**
+- Comprehensive CRA compliance documentation and guidance
+- Hardware security assessment templates and checklists
+- Industrial control systems compliance strategies
+- Training resources and implementation roadmaps
+- ⭐ 1 star
+
+### [ASTRA - Global Attack Surface Tracker](https://github.com/seedon198/ASTRA)
+**Real-time Cybersecurity Exposure Monitoring**
+- Automated global attack surface analysis across 50 countries
+- Real-time threat intelligence dashboard with 226M+ exposed services
+- Multi-source intelligence integration (Shodan Pro, GreyNoise, VirusTotal)
+- Corporate infrastructure analysis and risk assessment
+- ⭐ 1 star
 
 ### [Hardware Lab](https://github.com/seedon198/hardware_lab)
 **Professional Hardware Security Laboratory Setup**
-- 🔧 Comprehensive equipment guide for hardware security professionals
-- 📡 RF/wireless analysis tools and methodologies
-- 🎯 Red teaming and physical security testing equipment
-- 🔍 Complete reverse engineering and debugging platform setup
-- ⚙️ Essential lab tools with phased implementation strategy
+- Comprehensive equipment guide for hardware security professionals
+- RF/wireless analysis tools and methodologies
+- Red teaming and physical security testing equipment
+- Complete reverse engineering and debugging platform setup
+- Essential lab tools with phased implementation strategy
 
 ---
 
