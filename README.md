@@ -29,14 +29,6 @@ Building tools and methodologies to advance hardware security and threat intelli
 - Automated Firmware Analysis (Firmwire)
 - Threat Intelligence Framework (Farsight)
 
----
-
-## Connect & Collaborate
-
-**Professional Network**: [LinkedIn](https://www.linkedin.com/in/seedon)  
-**Security Insights**: [Twitter/X](https://x.com/SeedonD)  
-**Research & Blog**: [HexGuard.net](https://hexguard.net)  
-**Contact**: Available via LinkedIn  
 
 ---
 *"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."*  
