@@ -1,4 +1,4 @@
-<img src="/assets/burger.svg"  width="120" /><img src="/assets/boba.svg"  width="120" /><img src="/assets/hotdog.svg"  width="120" /><img src="/assets/pie.svg"  width="120" /><img src="/assets/sandwich.svg"  width="120" /><img src="/assets/pizzza.svg"  width="120" />
+<img src="/assets/burger.svg"  width="120" /><img src="/assets/boba.svg"  width="120" /><img src="/assets/hotdog.svg"  width="120" /><img src="/assets/pie.svg"  width="120" /><img src="/assets/sandwich.svg"  width="120" /><img src="/assets/pizzza.svg"  width="120" /><img src="/assets/pad.png"  width="120" />
 
 Building tools and methodologies to advance hardware security and threat intelligence.
 Building tools and methodologies to advance hardware security and threat intelligence.
