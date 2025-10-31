@@ -1,5 +1,6 @@
-# Adlin Seedon D'Souza
+<img src="/assets/burger.svg"  width="120" /></p>
 
+Building tools and methodologies to advance hardware security and threat intelligence.
 Building tools and methodologies to advance hardware security and threat intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seedon)
