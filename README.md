@@ -20,36 +20,14 @@ Building tools and methodologies to advance hardware security and threat intelli
 - **Conference Speaker** - B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
 - **Community Contributor** - Active in hardware security and OSINT communities
 
----
-
-## Technical Arsenal
-
-**Security Specializations**  
-Hardware Reverse Engineering • Industrial Control Systems (ICS/SCADA) • Open Source Intelligence (OSINT) • Embedded Systems & IoT Security
-
-**Programming & Scripting**  
-Python • C/C++ • JavaScript • Bash/Shell • Assembly • PowerShell • Lua • MicroPython
-
-**Hardware Platforms**  
-Arduino • Raspberry Pi • ESP32/ESP8266 • Xilinx FPGAs • Sipeed boards • NVIDIA Jetson • JTAGulator • ChipWhisperer • Saleae Logic Analyzer • Bus Pirate • Flipper Zero
-
-**Security Toolchain**  
-Penetration Testing: Kali Linux, Metasploit, Burp Suite  
-ICS/OT: Profinet, Modbus, OPC UA, DNP3 protocol analyzers  
-Embedded: Chipsec, Firmadyne, Binwalk, Ghidra, IDA Pro, Radare2, GDB, JTAG/SWD tools  
-Hardware: JTAGulator, Bus Pirate, HackRF  
-OSINT: Custom frameworks, Shodan  
-Forensics: Volatility, Autopsy
 
 ---
 
 ## Current Focus Areas
 
-- Industrial IoT security research and vulnerability disclosure
-- Advanced OSINT automation and threat intelligence correlation  
-- AI-powered security testing methodologies
-- 5G/6G network security implications for industrial systems
-- Zero-trust architecture implementation in OT environments
+- Cyber Resilience Act (CRA) 
+- Automated Firmware Analysis (Firmwire)
+- Threat Intelligence Framework (Farsight)
 
 ---
 
@@ -61,7 +39,7 @@ Forensics: Volatility, Autopsy
 **Contact**: Available via LinkedIn  
 
 ---
-
-*"The best way to predict the future of security is to create it"*
+*"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."*  
+*— George Bernard Shaw*
 
 ⭐ **Found my work useful? Star the repositories! I don't drink coffee like**
