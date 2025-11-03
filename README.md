@@ -1,7 +1,6 @@
 <img src="/assets/burger.svg"  width="120" /><img src="/assets/boba.svg"  width="120" /><img src="/assets/hotdog.svg"  width="120" /><img src="/assets/pie.svg"  width="120" /><img src="/assets/sandwich.svg"  width="120" /><img src="/assets/pizzza.svg"  width="120" /><img src="/assets/pad.png"  width="120" />
 
 Building tools and methodologies to advance hardware security and threat intelligence.
-Building tools and methodologies to advance hardware security and threat intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seedon)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SeedonD)
