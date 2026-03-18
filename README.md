@@ -25,8 +25,8 @@ Building tools and methodologies to advance hardware security and threat intelli
 ## Current Focus Areas
 
 - Cyber Resilience Act (CRA) 
-- Automated Firmware Analysis (Firmwire)
-- Threat Intelligence Framework (Farsight)
+- Automated Firmware Analysis
+- Threat Intelligence
 
 
 ---
