@@ -13,7 +13,7 @@ Building tools and methodologies to advance hardware security and threat intelli
 ---
 
 ## Recognition
-
+- **DEFCON 34 - AppSec Village** - Farsight OSINT Framework presenter
 - **BlackHat Arsenal 2025** - Farsight OSINT Framework presenter
 - **Security Engineer** at Festo - Securing industrial automation systems
 - **Conference Speaker** - B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
@@ -24,8 +24,7 @@ Building tools and methodologies to advance hardware security and threat intelli
 
 ## Current Focus Areas
 
-- Cyber Resilience Act (CRA) 
-- Automated Firmware Analysis
+- Automated Security Testing
 - Threat Intelligence
 
 
