@@ -30,6 +30,6 @@ Building tools and methodologies to advance hardware security and threat intelli
 
 ---
 *"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."*  
-*— George Bernard Shaw*
+*- George Bernard Shaw*
 
 ⭐ **Found my work useful? Star the repositories! I don't drink coffee**
