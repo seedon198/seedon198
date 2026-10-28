@@ -13,20 +13,17 @@ Building tools and methodologies to advance hardware security and threat intelli
 ---
 
 ## Recognition
-- **DEFCON 34 - AppSec Village** - Farsight OSINT Framework presenter
-- **BlackHat Arsenal 2025** - Farsight OSINT Framework presenter
-- **Security Engineer** at Festo - Securing industrial automation systems
-- **Conference Speaker** - B|Sides CDMX, Blackhat, C0C0N, Seasides Conference
-- **Community Contributor** - Active in hardware security and OSINT communities
-
+- **BlackHat Europe Asenal 2026** - Cloudrift
+- **DEFCON 34 Las Vegas - AppSec Village** - Farsight OSINT Framework presenter
+- **BlackHat Sector Arsenal 2025** - Farsight OSINT Framework presenter
+- **Other Conferences** - B|Sides CDMX, Mexico City, C0C0N, Kerala, Seasides Conference
 
 ---
 
 ## Current Focus Areas
 
-- Automated Security Testing
-- Threat Intelligence
-
+- Security Tooling
+- Secure Kernel Development
 
 ---
 *"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."*  
