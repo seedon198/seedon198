@@ -14,8 +14,8 @@ Building tools and methodologies to advance security.
 
 ## Recognition
 - **BlackHat Europe Asenal 2026** - Cloudrift
-- **DEFCON 34 Las Vegas - AppSec Village** - Farsight OSINT Framework presenter
-- **BlackHat Sector Arsenal 2025** - Farsight OSINT Framework presenter
+- **DEFCON 34 Las Vegas - AppSec Village 2026** - Farsight OSINT Framework
+- **BlackHat Sector Arsenal 2025** - Farsight OSINT Framework
 - **Other Conferences** - B|Sides CDMX, Mexico City, C0C0N, Kerala, Seasides Conference
 
 ---
