@@ -1,4 +1,4 @@
-<img src="/assets/burger.svg"  width="120" /><img src="/assets/boba.svg"  width="120" /><img src="/assets/hotdog.svg"  width="120" /><img src="/assets/pie.svg"  width="120" /><img src="/assets/sandwich.svg"  width="120" /><img src="/assets/pizzza.svg"  width="120" /><img src="/assets/pad.png"  width="120" />
+<img src="/assets/articuno.png"  width="120" /><img src="/assets/zapdos.png"  width="120" /><img src="/assets/moltres.png"  width="120" /><img src="/assets/lugia.png"  width="120" /><img src="/assets/ho-oh.png"  width="120" /><img src="/assets/entei.png"  width="120" /><img src="/assets/mewtwo.png"  width="120" />
 
 Building tools and methodologies to advance security.
 
