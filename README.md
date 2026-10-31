@@ -14,7 +14,7 @@ Building tools and methodologies to advance security.
 
 ## Technical Stack
 
-[![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,powershell,arduino,raspberrypi,kali,linux,docker,git,js,ts,nodejs,python,django,flask,fastapi,vite,postgres,sqlite,redis,nginx,github,vscode,vim,neovim&theme=dark)](https://hw101.me)
+[![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,arduino,raspberrypi,kali,linux,docker,git,sqlite,redis,nginx,vscode&theme=dark)](https://hw101.me)
 
 ---
 
