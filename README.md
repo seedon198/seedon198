@@ -14,29 +14,7 @@ Building tools and methodologies to advance security.
 
 ## Technical Stack
 
-**Programming Languages & Systems**
-
-[![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
-
-**Hardware & Embedded Systems**
-
-[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
-
-**Security Research & Reverse Engineering**
-
-[![Security](https://skillicons.dev/icons?i=kali,linux,docker,git&theme=dark)](https://skillicons.dev)
-
-**Development & Frameworks**
-
-[![Development](https://skillicons.dev/icons?i=js,ts,nodejs,python,django,flask,fastapi,vite&theme=dark)](https://skillicons.dev)
-
-**Databases & Infrastructure**
-
-[![Infrastructure](https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,nginx&theme=dark)](https://skillicons.dev)
-
-**Development Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,powershell,arduino,raspberrypi,kali,linux,docker,git,js,ts,nodejs,python,django,flask,fastapi,vite,postgres,sqlite,redis,nginx,github,vscode,vim,neovim&theme=dark)](https://hw101.me)
 
 ---
 
