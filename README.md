@@ -16,7 +16,7 @@ Building tools and methodologies to advance security.
 
 ---
 
-## Technical Stack
+## Stack
 
 [![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,bash,arduino,raspberrypi,kali,linux,docker,git,sqlite,redis,nginx,vscode&theme=dark)](https://hw101.me)
 
@@ -31,7 +31,7 @@ Building tools and methodologies to advance security.
 
 ---
 
-## Focus Areas
+## Focus
 
 - Security Tooling & Automation
 - Secure Kernel Development
